@@ -1,6 +1,6 @@
 # Angular API
 
-[![LICENSE](https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=00000)](https://github.com/leandrocunha526/angular-api/blob/main/LICENSE.md")
+[![LICENSE](https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=00000)](https://github.com/leandrocunha526/angular-api/blob/main/LICENSE.md)
 
 ## Using
 

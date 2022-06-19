@@ -25,16 +25,10 @@
 npm install
 ```
 
-- YARN:
-
-```sh
-yarn install
-```
-
 - To run:
 
 ```sh
-yarn install
+npm run dev
 ```
 
 ## Instructions to use Docker

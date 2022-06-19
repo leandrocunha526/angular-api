@@ -14,6 +14,7 @@
 - CORS
 - Javascript
 - DotENV
+- Cookie Session
 
 ## Initial settings
 
